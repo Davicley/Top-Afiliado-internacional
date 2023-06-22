@@ -1,5 +1,5 @@
 *{
-    margin: 1;
+    margin: 0;
     padding: 0;
 }
 
@@ -11,7 +11,9 @@
     
 }
 .cabecalhoImagem{
-    width:20%;
+    width: 50%;
+    padding: 1%;
+    text-align: left;
 
 }
 
@@ -21,13 +23,20 @@ body{
 li{
     color: rgb(231, 221,221);
 }
-
 .cabecalhoImagemItem{
     display: inline-block;
     margin:0 40px;
     padding: 50px 0;
 }
+body {
+    text-align: center;
+}
+.sobreTextoUm{
+    display: inline - block;
+    margin: 0%;
+    pagging: 1%;
 
+}
 li{
     color: rgb(231, 221,221);
 }
